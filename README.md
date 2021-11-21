@@ -15,5 +15,5 @@ The framework that I familiar with :
   - PHP 7
   - Laravel 8
 
-![poster](https://github.com/mnaimn21/mnaimn21/poster.png?raw=true)
+![poster](https://github.com/mnaimn21/mnaimn21/poster.png)
 
