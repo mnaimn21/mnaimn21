@@ -1,6 +1,6 @@
 # Hi, I’m Naim :wave: :desktop_computer:
 
-![poster](https://github.com/mnaimn21/mnaimn21/blob/main/poster.png)
+![poster](https://github.com/mnaimn21/mnaimn21/blob/main/poster.jpg)
 
 
 
